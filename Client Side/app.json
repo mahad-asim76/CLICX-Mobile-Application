@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "CliCX",
+    "slug": "CliCX",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/CliCX_Logo.png",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/CliCX_Logo.png"
+      },
+      "permissions": [
+        "LOCATION"
+      ],
+      "package": "com.clicx",
+      "jsEngine": "hermes"
+    },
+    "web": {
+      "icon": "./assets/ibex.png",
+      "favicon": "./assets/CliCX_Logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a13ad15f-3816-4ee1-a786-be8fc53a740c"
+      }
+    }
+  },
+
+  "AppEnvironment": "L",
+  "ProdURLRest": "https://qa.bundledealer.com/ReportingRestAPI/",
+  "LocalURLRest": "http://10.114.11.67:58688/",
+  "1LocalURLRest": "http://10.90.237.88:58688/"
+}
