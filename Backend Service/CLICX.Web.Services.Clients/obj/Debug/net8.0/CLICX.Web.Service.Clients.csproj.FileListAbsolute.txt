@@ -1,0 +1,15 @@
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\bin\Debug\net8.0\CLICX.Web.Service.Clients.deps.json
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\bin\Debug\net8.0\CLICX.Web.Service.Clients.dll
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\bin\Debug\net8.0\CLICX.Web.Service.Clients.pdb
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\bin\Debug\net8.0\Entities.dll
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\bin\Debug\net8.0\Entities.pdb
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\obj\Debug\net8.0\CLICX.Web.Service.Clients.csproj.AssemblyReference.cache
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\obj\Debug\net8.0\CLICX.Web.Service.Clients.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\obj\Debug\net8.0\CLICX.Web.Service.Clients.AssemblyInfoInputs.cache
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\obj\Debug\net8.0\CLICX.Web.Service.Clients.AssemblyInfo.cs
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\obj\Debug\net8.0\CLICX.Web.Service.Clients.csproj.CoreCompileInputs.cache
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\obj\Debug\net8.0\CLICX.Web.Service.Clients.csproj.CopyComplete
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\obj\Debug\net8.0\CLICX.Web.Service.Clients.dll
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\obj\Debug\net8.0\refint\CLICX.Web.Service.Clients.dll
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\obj\Debug\net8.0\CLICX.Web.Service.Clients.pdb
+D:\Git\CliCX Web Service\CLICX.Web.Services.Clients\obj\Debug\net8.0\ref\CLICX.Web.Service.Clients.dll
