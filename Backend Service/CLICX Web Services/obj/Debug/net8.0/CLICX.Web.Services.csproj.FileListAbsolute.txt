@@ -1,0 +1,226 @@
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\AppSettings.Development.json
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\AppSettings.json
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\CLICX.Web.Services.exe
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\CLICX.Web.Services.deps.json
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\CLICX.Web.Services.runtimeconfig.json
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\CLICX.Web.Services.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\CLICX.Web.Services.pdb
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\LZStringCSharp.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\CLICX.Web.Services.BL.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\CLICX.Web.Services.DAL.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\CommonLibrary.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\Entities.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\CommonLibrary.pdb
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\CLICX.Web.Services.BL.pdb
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\Entities.pdb
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\bin\Debug\net8.0\CLICX.Web.Services.DAL.pdb
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\CLICX.Web.Services.csproj.AssemblyReference.cache
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\CLICX.Web.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\CLICX.Web.Services.AssemblyInfoInputs.cache
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\CLICX.Web.Services.AssemblyInfo.cs
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\CLICX.Web.Services.csproj.CoreCompileInputs.cache
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\CLICX.Web.Services.MvcApplicationPartsAssemblyInfo.cs
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\CLICX.Web.Services.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\staticwebassets.build.json
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\staticwebassets.development.json
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\staticwebassets\msbuild.CLICX.Web.Services.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\staticwebassets\msbuild.build.CLICX.Web.Services.props
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CLICX.Web.Services.props
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CLICX.Web.Services.props
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\scopedcss\bundle\CLICX.Web.Services.styles.css
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\CLICX.Web.Services.csproj.CopyComplete
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\CLICX.Web.Services.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\refint\CLICX.Web.Services.dll
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\CLICX.Web.Services.pdb
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\CLICX.Web.Services.genruntimeconfig.cache
+D:\Git\CliCX Mobile Service\PulseAuthentication Service\obj\Debug\net8.0\ref\CLICX.Web.Services.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\AppSettings.Development.json
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\AppSettings.json
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.exe
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.deps.json
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.runtimeconfig.json
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.pdb
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\DnsClient.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\LZStringCSharp.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\SharpCompress.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\Snappier.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\ZstdSharp.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\BD.Reporting.Services.DAL.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.BL.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.DAL.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\CommonLibrary.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\Entities.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\IbexClient.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\CommonLibrary.pdb
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.BL.pdb
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\Entities.pdb
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\BD.Reporting.Services.DAL.pdb
+D:\Git\CliCX Mobile Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.DAL.pdb
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.csproj.AssemblyReference.cache
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.AssemblyInfoInputs.cache
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.AssemblyInfo.cs
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.csproj.CoreCompileInputs.cache
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.MvcApplicationPartsAssemblyInfo.cs
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets.build.json
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets.development.json
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets\msbuild.CLICX.Web.Services.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets\msbuild.build.CLICX.Web.Services.props
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CLICX.Web.Services.props
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CLICX.Web.Services.props
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\scopedcss\bundle\CLICX.Web.Services.styles.css
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.csproj.CopyComplete
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\refint\CLICX.Web.Services.dll
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.pdb
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.genruntimeconfig.cache
+D:\Git\CliCX Mobile Service\CLICX Web Services\obj\Debug\net8.0\ref\CLICX.Web.Services.dll
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.csproj.AssemblyReference.cache
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.AssemblyInfoInputs.cache
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.AssemblyInfo.cs
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.csproj.CoreCompileInputs.cache
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.MvcApplicationPartsAssemblyInfo.cs
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.MvcApplicationPartsAssemblyInfo.cache
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\AppSettings.Development.json
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\AppSettings.json
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.exe
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.deps.json
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.runtimeconfig.json
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Services.pdb
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Dapper.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\DnsClient.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\LiteDB.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\LZStringCSharp.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\MongoDB.Driver.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\MySql.Data.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Ubiety.Dns.Core.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\ZstdNet.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Npgsql.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Serilog.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\SharpCompress.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Snappier.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\WatchDog.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\ZstdSharp.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Service.Clients.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Entities.dll
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\CLICX.Web.Service.Clients.pdb
+D:\Git\CliCX Web Service\CLICX Web Services\bin\Debug\net8.0\Entities.pdb
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets.build.json
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets.development.json
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets\msbuild.CLICX.Web.Services.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets\msbuild.build.CLICX.Web.Services.props
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CLICX.Web.Services.props
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CLICX.Web.Services.props
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\scopedcss\bundle\CLICX.Web.Services.styles.css
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.csproj.CopyComplete
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.dll
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\refint\CLICX.Web.Services.dll
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.pdb
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\CLICX.Web.Services.genruntimeconfig.cache
+D:\Git\CliCX Web Service\CLICX Web Services\obj\Debug\net8.0\ref\CLICX.Web.Services.dll
