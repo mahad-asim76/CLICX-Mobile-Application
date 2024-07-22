@@ -1,0 +1,8 @@
+{
+  "name": "CliCX",
+  "displayName": "CliCX",
+  "AppEnvironment": "L",
+  "ProdURLRest": "https://apps.bundledealer.com/CLICXService/",
+  "LocalURLRest": "http://10.114.11.67:58688/",
+  "1LocalURLRest": "http://10.90.237.94:58688/"
+}
